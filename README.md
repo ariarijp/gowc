@@ -7,7 +7,7 @@ wc command written in Golang
 
 ## License
 
-[MIT][license]
+[MIT](license)
 
 ## Author
 
